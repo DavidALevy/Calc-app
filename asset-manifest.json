@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/DavidALevy/Calc-app/static/css/main.2f15e5fd.chunk.css",
-    "main.js": "/DavidALevy/Calc-app/static/js/main.e1f89376.chunk.js",
-    "main.js.map": "/DavidALevy/Calc-app/static/js/main.e1f89376.chunk.js.map",
-    "runtime-main.js": "/DavidALevy/Calc-app/static/js/runtime-main.06185354.js",
-    "runtime-main.js.map": "/DavidALevy/Calc-app/static/js/runtime-main.06185354.js.map",
-    "static/js/2.f50cf959.chunk.js": "/DavidALevy/Calc-app/static/js/2.f50cf959.chunk.js",
-    "static/js/2.f50cf959.chunk.js.map": "/DavidALevy/Calc-app/static/js/2.f50cf959.chunk.js.map",
-    "static/js/3.b06bc55d.chunk.js": "/DavidALevy/Calc-app/static/js/3.b06bc55d.chunk.js",
-    "static/js/3.b06bc55d.chunk.js.map": "/DavidALevy/Calc-app/static/js/3.b06bc55d.chunk.js.map",
-    "index.html": "/DavidALevy/Calc-app/index.html",
-    "static/css/main.2f15e5fd.chunk.css.map": "/DavidALevy/Calc-app/static/css/main.2f15e5fd.chunk.css.map",
-    "static/js/2.f50cf959.chunk.js.LICENSE.txt": "/DavidALevy/Calc-app/static/js/2.f50cf959.chunk.js.LICENSE.txt"
+    "main.css": "/Calc-app/static/css/main.2f15e5fd.chunk.css",
+    "main.js": "/Calc-app/static/js/main.e1f89376.chunk.js",
+    "main.js.map": "/Calc-app/static/js/main.e1f89376.chunk.js.map",
+    "runtime-main.js": "/Calc-app/static/js/runtime-main.923a8b57.js",
+    "runtime-main.js.map": "/Calc-app/static/js/runtime-main.923a8b57.js.map",
+    "static/js/2.f50cf959.chunk.js": "/Calc-app/static/js/2.f50cf959.chunk.js",
+    "static/js/2.f50cf959.chunk.js.map": "/Calc-app/static/js/2.f50cf959.chunk.js.map",
+    "static/js/3.b06bc55d.chunk.js": "/Calc-app/static/js/3.b06bc55d.chunk.js",
+    "static/js/3.b06bc55d.chunk.js.map": "/Calc-app/static/js/3.b06bc55d.chunk.js.map",
+    "index.html": "/Calc-app/index.html",
+    "static/css/main.2f15e5fd.chunk.css.map": "/Calc-app/static/css/main.2f15e5fd.chunk.css.map",
+    "static/js/2.f50cf959.chunk.js.LICENSE.txt": "/Calc-app/static/js/2.f50cf959.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.06185354.js",
+    "static/js/runtime-main.923a8b57.js",
     "static/js/2.f50cf959.chunk.js",
     "static/css/main.2f15e5fd.chunk.css",
     "static/js/main.e1f89376.chunk.js"
